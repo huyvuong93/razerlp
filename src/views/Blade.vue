@@ -500,7 +500,7 @@ li{
 }
 .info-2 h3,.info-3 h3,.info-4 h3,.info-5 h3,.info-6 h3,.info-7 h3,.info-8 h3,.info-9 h3,.info-10 h3{
   margin-top: 0;
-  margin-bottom: 19px;
+  margin-bottom: 20px;
 }
 .info-9 ul{
   list-style-type: decimal;
